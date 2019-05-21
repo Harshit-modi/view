@@ -1,4 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## To start the app
+
+Install the dependencies by running:
+### `npm install`
+
+Now run bellow command to start app in development mode:
+### `yarn run start`
+
+To deploy it for production, run:
+### `yarn run deploy`
 
 ## Available Scripts
 
